@@ -1,0 +1,4 @@
+JWT authentication can be bypassed if the algorithm is set to none.
+Buffer overflow overwrites RIP and allows control of execution flow.
+Reverse engineering involves analyzing binaries without source code.
+

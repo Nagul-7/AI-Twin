@@ -1,5 +1,15 @@
-venv/
-vectordb/
+# Python
 __pycache__/
 *.pyc
+
+# Virtual environment
+venv/
+
+# Vector DB
+vectordb/
+
+# Environment files
 .env
+
+# OS files
+.DS_Store
